@@ -1,2 +1,2 @@
-# php-upload-form
-Exercise files for the course PHP upload form
+# PHP upload form
+Exercise files for the course **PHP upload form**
